@@ -2,7 +2,7 @@ import mysql.connector
 from mysql.connector import errorcode
 config = {
 	"user": "root", 
-	"password": "67ChickenFat!7",
+	"password": "pass",
 	"host": "localhost",
 	"database": "movies",
 	"raise_on_warnings": True
